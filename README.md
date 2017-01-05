@@ -1,5 +1,5 @@
 # OOP
-Projects made from Object Orientated Programming course
+Projects made for Object Orientated Programming course
 
 Projects take input(s) to match riders with rides.
 
